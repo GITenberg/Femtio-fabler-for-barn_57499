@@ -1,16 +1,21 @@
 _repo: Femtio-fabler-for-barn_57499
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Speckter, Otto
     gutenberg_agent_id: '49425'
     url: http://www.gutenberg.org/2009/agents/49425
+covers:
+- cover_type: archival
+  image_path: 57499-h/images/cover.jpg
 creator:
   author:
     agent_name: Hey, Johann Wilhelm
     gutenberg_agent_id: '49424'
     url: http://www.gutenberg.org/2009/agents/49424
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57499#Femtio-fabler-for-barn
 gutenberg_issued: '2018-07-13'
 gutenberg_type: Text
 identifiers:
