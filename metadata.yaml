@@ -1,0 +1,25 @@
+_repo: Femtio-fabler-for-barn_57499
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Speckter, Otto
+    gutenberg_agent_id: '49425'
+    url: http://www.gutenberg.org/2009/agents/49425
+creator:
+  author:
+    agent_name: Hey, Johann Wilhelm
+    gutenberg_agent_id: '49424'
+    url: http://www.gutenberg.org/2009/agents/49424
+description: ''
+gutenberg_issued: '2018-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57499'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Femtio fabler för barn
+url: http://www.gutenberg.org/ebooks/57499
